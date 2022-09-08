@@ -1,0 +1,7 @@
+Steps to execte project
+
+step 1 : upload .ipynb file into google collab
+
+step 2: import two datasets "Choclate_Sales.csv" and "Income_vs_Spending.csv" files
+
+step 3: click on restart and run all.
